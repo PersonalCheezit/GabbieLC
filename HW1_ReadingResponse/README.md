@@ -7,4 +7,4 @@
 
 ### Two things that I already knew
 - One thing that I already knew was how it has a DIY/Punk ethos to it. It kinda reminds me of a musical version of the Dadaism sound wise and coding wise.
-- Another thing that I kind of already knew was
+- Another thing that I kind of already knew was that it was very open ended in terms of what live coding could be! I just didn't realize how open ended it really was.
